@@ -1,0 +1,35 @@
+Itinerarios del dia: 15/09/2021
+-----CLIENTE: EOWYN-----
+Promociones:
+promo3 que contiene las atracciones:
+      Minas Tirith
+      Abismo de Helm
+      Erebor
+TOTAL TIEMPO:7.5hs
+TOTAL VALOR: $10.
+-----CLIENTE: GANDALF-----
+Promociones:
+promo4 que contiene las atracciones:
+      Minas Tirith
+      Erebor
+promo2 que contiene las atracciones:
+      Lothlórien
+      La Comarca
+Atracciones:
+Abismo de Helm
+TOTAL TIEMPO:15.0hs
+TOTAL VALOR: $53.
+-----CLIENTE: SAM-----
+Atracciones:
+Lothlórien
+TOTAL TIEMPO:1.0hs
+TOTAL VALOR: $35.
+-----CLIENTE: GALADRIEL-----
+Promociones:
+promo4 que contiene las atracciones:
+      Minas Tirith
+      Erebor
+TOTAL TIEMPO:5.5hs
+TOTAL VALOR: $12.
+-------------------TOTAL CLIENTES DEL DÍA DE HOY: 4-------------------
+-------------------TOTAL RECAUDADO EL DÍA DE HOY: $110-------------------

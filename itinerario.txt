@@ -1,0 +1,45 @@
+Itinerarios del dia: 15/09/2021
+-----CLIENTE: EOWYN-----
+Promociones:
+promo5 que contiene las atracciones:
+      Bosque Negro
+      Mordor
+      Moria
+promo2 que contiene las atracciones:
+      Lothlórien
+      La Comarca
+promo4 que contiene las atracciones:
+      Minas Tirith
+      Erebor
+Atracciones:
+Abismo de Helm
+TOTAL TIEMPO:24.0hs
+TOTAL VALOR: $81.
+-----CLIENTE: GANDALF-----
+Promociones:
+promo4 que contiene las atracciones:
+      Minas Tirith
+      Erebor
+promo2 que contiene las atracciones:
+      Lothlórien
+      La Comarca
+Atracciones:
+Abismo de Helm
+TOTAL TIEMPO:15.0hs
+TOTAL VALOR: $53.
+-----CLIENTE: SAM-----
+Promociones:
+promo2 que contiene las atracciones:
+      Lothlórien
+      La Comarca
+TOTAL TIEMPO:7.5hs
+TOTAL VALOR: $36.
+-----CLIENTE: GALADRIEL-----
+Promociones:
+promo4 que contiene las atracciones:
+      Minas Tirith
+      Erebor
+TOTAL TIEMPO:5.5hs
+TOTAL VALOR: $12.
+-------------------TOTAL CLIENTES DEL DÍA DE HOY: 4-------------------
+-------------------TOTAL RECAUDADO EL DÍA DE HOY: $182-------------------
